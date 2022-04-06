@@ -26,3 +26,7 @@ Information given for attribution:
 In order to facilitate learning the Hebrew bible, audio files here are created for integration into Unique Bible App.  Uses can easily select a Hebrew word or lexeme and listen to its audio.
 
 https://github.com/eliranwong/UniqueBible
+
+A wiki page on word-by-word audio:
+
+https://github.com/eliranwong/UniqueBible/wiki/Word-by-word-Hebrew-and-Greek-Audio
