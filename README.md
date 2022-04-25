@@ -30,3 +30,7 @@ https://github.com/eliranwong/UniqueBible
 A wiki page on word-by-word audio:
 
 https://github.com/eliranwong/UniqueBible/wiki/Word-by-word-Hebrew-and-Greek-Audio
+
+# Online Demonstration
+
+https://bible.gospelchurch.uk/index.html?cmd=BIBLE%3A%3A%3AMIB%3A%3A%3AJn+3%3A16
